@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/86783252-7459-4bd8-a1a6-da8b2338849b/microsoft.web/sites/subscriptions/86783252-7459-4bd8-a1a6-da8b2338849b/resourceGroups/munOmaNodeTesti-ResourceGrouppi/providers/Microsoft.Web/sites/munOmaNodeTesti",
+    "appService.deploySubpath": "."
+}
